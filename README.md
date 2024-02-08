@@ -55,7 +55,7 @@ Steps
 
     bash
 
-    git clone https://github.com/nikitapunia/demo_automation_np.git
+    git clone https://github.com/punianikitaqa/demo_automation_np.git
     Navigate to the project directory:
     cd your-project
 
